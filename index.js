@@ -1,1 +1,1 @@
-module.export = require('electron').remote.require('fs')
+module.exports = require('electron').remote.require('fs')

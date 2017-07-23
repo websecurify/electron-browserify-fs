@@ -1,6 +1,6 @@
 {
   "name": "electron-browserify-fs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Electron-compatible browserify-fs",
   "main": "index.js",
   "scripts": {
